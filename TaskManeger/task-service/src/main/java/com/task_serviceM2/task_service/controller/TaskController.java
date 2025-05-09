@@ -18,7 +18,7 @@ public class TaskController {
     private TaskService taskService;
     private UserService userService;
 
-    @Autowired
+ 
     public TaskController(TaskService taskService, UserService userService) {
         this.taskService = taskService;
         this.userService=userService;
