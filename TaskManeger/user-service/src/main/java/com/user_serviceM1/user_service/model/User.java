@@ -1,6 +1,6 @@
 package com.user_serviceM1.user_service.model;
 
-import java.util.ArrayList;
+
 import java.util.List;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
